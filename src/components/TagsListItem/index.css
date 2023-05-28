@@ -1,0 +1,11 @@
+.tags-list-item-container {
+  background-color: #f7f7f4;
+  color: #1e293b;
+  list-style-type: none;
+  margin: 3px;
+  width: fit-content;
+}
+.item-text {
+  font-size: 10px;
+  margin: 5px;
+}
